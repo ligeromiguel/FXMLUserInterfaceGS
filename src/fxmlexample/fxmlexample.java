@@ -18,7 +18,7 @@ public class fxmlexample extends Application {
         
         Scene scene = new Scene(root, 300, 275);
         
-        stage.setTitle("FXML Welcome");
+        stage.setTitle("Bienvenid@ a FXML");
         stage.setScene(scene);
         stage.show();
     }
